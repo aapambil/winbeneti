@@ -1,3 +1,5 @@
 # winbeneti
 To Do List App
-By Apambil Alfred
+By *Apambil Alfred*
+**Functionalities**
+
