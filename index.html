@@ -1,0 +1,53 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>To-Do App</title>
+  <link rel="stylesheet" href="styles.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css">
+</head>
+<body>
+  <header>
+    <h1>To Do </h1>
+      <div class="theme-toggle">
+      <i class="fas fa-sun"></i>
+      <i class="fas fa-moon"></i>
+    </div>
+  
+    
+  </header>
+<div class="background-image"></div>
+
+<div class="container">
+  <div class="todo-app">
+    <h2>To-Do List</h2>
+    <div class="row">
+      <input type="text"  id="input-box" placeholder="Add a to do"/>
+      <button onclick="addTask()">Add</button>
+    </div>
+    <ul id="list-container">
+    <li class="checked" draggable="true" >task1</li>
+        <!--<li>task2</li>
+       <li>task3</li>-->
+    </ul>
+  </div>
+
+<div class="bottom-bar"></div>
+    <div id="buttons-container">
+      <div class="filter-buttons">
+        <button id="all-btn">All</button>
+        <button id="active-btn">Active</button>
+        <button id="completed-btn">Completed</button>
+        <button id="clear-completed-btn">Clear Completed</button>
+      </div>
+      <p id="items-left">0 items left</p>
+       <p id="reorder-info">Drag and drop to reorder list</p>
+    </div>
+    </div>
+   </div>
+  <script src="script.js"></script>
+</body>
+</html> 
+
