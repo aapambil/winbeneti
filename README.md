@@ -3,7 +3,7 @@
 
 I created this project to help you keep track of your plans and goals. I'm excited to see you achieve your targets!
 
-Users will be able to:
+  <u>Users will be able to:</u>
 
 - View the optimal layout of the app based on their device's screen size
 - Experience interactive elements with hover states
@@ -16,5 +16,16 @@ Users will be able to:
 - Reorder items on the list through drag and drop
 - Develop this project as a full-stack application
 
-My Skills: 
-JavaScript / HTML / CSS
+ <u>My Skills: </u> 
+- JavaScript
+- HTML
+- CSS
+- 
+<u>### Benefits</u>
+
+- Efficient Task Management
+- Flexible Filtering and Sorting
+- Intuitive User Experience
+- Visual Customization
+- Drag and Drop Functionality
+- Full-Stack Development Possibility
