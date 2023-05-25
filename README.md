@@ -1,27 +1,20 @@
 ### Hi there, My name is Alfred
 #### I am a web Developer
 
-I made this project to assist you keep track of what you plan to do.
-I am glad to see you accomplish your set  targets
+I created this project to help you keep track of your plans and goals. I'm excited to see you achieve your targets!
 
+Users will be able to:
 
-### Users Would be able to:
-###• View the optimal layout for the app depending on their device's screen size
-• See hover states for all interactive elements on the page
-• Add new to-dos to the list
-• Mark to-dos as complete
-• Delete to-dos from the list
-• Filter by all/active/complete to-dos
-• Clear all completed to-dos
-• Toggle light and dark mode
-• Drag and drop to reorder items on the list
-• Build this project as a full-stack application
+- View the optimal layout of the app based on their device's screen size
+- Experience interactive elements with hover states
+- Add new to-dos to the list
+- Mark to-dos as complete
+- Delete to-dos from the list
+- Filter to-dos by all/active/complete categories
+- Clear all completed to-dos
+- Toggle between light and dark mode
+- Reorder items on the list through drag and drop
+- Develop this project as a full-stack application
 
-
- My Skills: 
-JS / HTML / CSS
-
-
-
-
-
+My Skills: 
+JavaScript / HTML / CSS
